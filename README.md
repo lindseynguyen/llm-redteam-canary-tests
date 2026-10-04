@@ -77,6 +77,8 @@ This repo is the free starter set. The **[LLM Red-Team Starter Kit 2026](https:/
 - **Excel workbook** with automatic severity-weighted scoring per category, critical-failure count and rating
 - **12-page playbook:** rules of engagement, canary setup, remediation map, report templates
 
+Working on industrial systems too? The free **[OT/ICS Security Quick Audit Checklist 2026](https://techsavant013.gumroad.com/l/ot-ics-quick-audit-checklist)** (pay what you want) gives you 35 evidence-based checks across 9 domains, mapped to IEC 62443.
+
 Background article: [How to Red-Team Your LLM App in One Afternoon](https://dev.to/mrc_nguyen_3d55a018506c/how-to-red-team-your-llm-app-in-one-afternoon-without-a-single-harmful-prompt-3cpi)
 
 ## Contributing
