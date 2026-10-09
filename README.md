@@ -79,6 +79,8 @@ This repo is the free starter set. The **[LLM Red-Team Starter Kit 2026](https:/
 
 Working on industrial systems too? The free **[OT/ICS Security Quick Audit Checklist 2026](https://techsavant013.gumroad.com/l/ot-ics-quick-audit-checklist)** (pay what you want) gives you 35 evidence-based checks across 9 domains, mapped to IEC 62443.
 
+Testing AI agents or MCP tools? LLM tests are step one. Agents that call tools need their own checks: tool poisoning, output chaining, confused deputy, MCP supply chain and kill switch. The **[MCP & AI Agent Security Test Pack 2026](https://techsavant013.gumroad.com/l/mcp-agent-security-test-pack?utm_source=github&utm_medium=readme)** ($12) adds 40 canary-based tests mapped to the OWASP Top 10 for Agentic Applications 2026, a scoring workbook and a harmless lab MCP server. Free write-up: [5 MCP Security Tests to Run Before Your AI Agent Gets Tool Access](https://dev.to/techsavant_lab/5-mcp-security-tests-to-run-before-your-ai-agent-gets-tool-access-2m3l).
+
 Background article: [How to Red-Team Your LLM App in One Afternoon](https://dev.to/mrc_nguyen_3d55a018506c/how-to-red-team-your-llm-app-in-one-afternoon-without-a-single-harmful-prompt-3cpi)
 
 ## Contributing
